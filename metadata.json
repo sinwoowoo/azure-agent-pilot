@@ -1,0 +1,6 @@
+{
+  "name": "Microsoft Agent Framework & Copilot SDK 개발 가이드",
+  "description": "Microsoft Agent Framework, GitHub Copilot SDK, Azure AI Foundry 모델 및 샌드박스 실무 적용 요약 및 인터랙티브 가이드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
